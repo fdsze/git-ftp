@@ -1,5 +1,5 @@
 FROM debian:stable-slim
-MAINTAINER easySubsea <contact@easysubsea.com>
+MAINTAINER fdsze <freddie@y714.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
